@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   gsmlg-dev:
   - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-01-04T07:35:15.753007289Z"
+    description: GSMLG.DEV application chart
+    digest: 76e50d10e6f34c2e9d5c7fbcf5df548c32f357a08fc4a3715a72563a00a8494d
+    name: gsmlg-dev
+    type: application
+    urls:
+    - https://github.com/gsmlg-dev/helm-charts/releases/download/gsmlg-dev-1.0.1/gsmlg-dev-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
     appVersion: 0.1.0
     created: "2021-03-02T18:36:45.469691322Z"
     description: A Helm chart for Kubernetes
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/gsmlg-dev/helm-charts/releases/download/gsmlg-dev-0.1.0/gsmlg-dev-0.1.0.tgz
     version: 0.1.0
-generated: "2021-03-02T18:36:45.469704022Z"
+generated: "2023-01-04T07:35:15.75301719Z"
